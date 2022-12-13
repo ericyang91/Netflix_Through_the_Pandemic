@@ -97,8 +97,7 @@ geoapify_key = "YOUR KEY HERE"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ji Yeol (Eric) Yang</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ali Taghipour Heidari</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hammad Ahmed</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nimra Wali</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeremiah Sulunteh</br>
+
 
 
 </p>
